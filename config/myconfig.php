@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'api_key' => 'MTYyNjpUVVMzSUk2NEI0',
+    'api_key' => {{Api Key}},
 ];
